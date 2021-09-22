@@ -1,0 +1,14 @@
+D:\3.RT\Programiranje\22.9.2021\22.9.2021\bin\Debug\netcoreapp3.1\22.9.2021.exe
+D:\3.RT\Programiranje\22.9.2021\22.9.2021\bin\Debug\netcoreapp3.1\22.9.2021.deps.json
+D:\3.RT\Programiranje\22.9.2021\22.9.2021\bin\Debug\netcoreapp3.1\22.9.2021.runtimeconfig.json
+D:\3.RT\Programiranje\22.9.2021\22.9.2021\bin\Debug\netcoreapp3.1\22.9.2021.runtimeconfig.dev.json
+D:\3.RT\Programiranje\22.9.2021\22.9.2021\bin\Debug\netcoreapp3.1\22.9.2021.dll
+D:\3.RT\Programiranje\22.9.2021\22.9.2021\bin\Debug\netcoreapp3.1\22.9.2021.pdb
+D:\3.RT\Programiranje\22.9.2021\22.9.2021\obj\Debug\netcoreapp3.1\22.9.2021.csproj.AssemblyReference.cache
+D:\3.RT\Programiranje\22.9.2021\22.9.2021\obj\Debug\netcoreapp3.1\22.9.2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\3.RT\Programiranje\22.9.2021\22.9.2021\obj\Debug\netcoreapp3.1\22.9.2021.AssemblyInfoInputs.cache
+D:\3.RT\Programiranje\22.9.2021\22.9.2021\obj\Debug\netcoreapp3.1\22.9.2021.AssemblyInfo.cs
+D:\3.RT\Programiranje\22.9.2021\22.9.2021\obj\Debug\netcoreapp3.1\22.9.2021.csproj.CoreCompileInputs.cache
+D:\3.RT\Programiranje\22.9.2021\22.9.2021\obj\Debug\netcoreapp3.1\22.9.2021.dll
+D:\3.RT\Programiranje\22.9.2021\22.9.2021\obj\Debug\netcoreapp3.1\22.9.2021.pdb
+D:\3.RT\Programiranje\22.9.2021\22.9.2021\obj\Debug\netcoreapp3.1\22.9.2021.genruntimeconfig.cache
