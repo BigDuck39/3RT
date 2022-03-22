@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">22.3.2022</string>
+    <string-array name="odabir_trajanja">
+        <item>Toast - duže trajanje</item>
+        <item>Toast - kraće trajanje</item>
+    </string-array>
+
 </resources>
