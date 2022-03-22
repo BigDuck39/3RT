@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentTop="true"
+    android:background="#ffffff">
+
+    <TextView
+        android:id="@+id/textViewIspis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:background="#0000ff"
+        android:text="0"
+        android:textColor="@color/white"/>
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/gumb1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gumb List"
+        android:onClick="tipkaPritisnutaList"
+        />
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/gumb2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gumb radio"
+        android:onClick="tipkaPritisnutaRadio"
+        />
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/gumb3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gumb Check"
+        android:onClick="tipkaPritisnutaCheck"
+        />
+
+
+</LinearLayout>

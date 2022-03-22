@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">8.3.2022</string>
+    <string-array name="odabir_gumba">
+        <item>-1</item>
+        <item>+1</item>
+        <item>+2</item>
+    </string-array>
+
+</resources>
