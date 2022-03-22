@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    android:id="@+id/mainActivity"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentTop="true"
+    android:background="#ffffff">
+
+    <EditText
+        android:id="@+id/edittext1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="8"
+        android:fontFamily="Courier New"
+        android:textColor="#000000"
+        android:background="#F2F5A9"
+        android:singleLine="false"
+        android:textSize="30sp"
+        android:textStyle="bold|italic"
+        />
+
+    <EditText
+        android:id="@+id/edittext2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="-2"
+        android:fontFamily="Courier New"
+        android:textColor="#000000"
+        android:background="#F2F5A9"
+        android:singleLine="false"
+        android:textSize="30sp"
+        android:textStyle="bold|italic"
+        />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/radioButtonNegativnih"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Broj negativnih"
+            android:checked="true"/>
+        <RadioButton
+            android:id="@+id/radioButtonNula"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Broj nula"
+            android:checked="false"/>
+        <RadioButton
+            android:id="@+id/radioButtonParnih"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Broj parnih"
+            android:checked="false"/>
+        <ToggleButton
+            android:id="@+id/togglebutton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textOn="Pozadina žuta"
+            android:textOff="Pozadina bijela"
+            android:onClick="onToggleClicked"
+            android:checked="true"
+            />
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#ffcc00"
+            android:onClick="prikaziPoruku"
+            android:text="Gumb"/>
+
+        <TextView
+            android:id="@+id/textview1"
+            android:layout_width="413dp"
+            android:layout_height="wrap_content"
+            android:background="#FFFF00"
+            android:fontFamily="Ariel"
+            android:singleLine="true"
+            android:text=""
+            android:textColor="#FF0000"
+            android:textSize="40sp" />
+
+
+    </RadioGroup>
+
+
+</LinearLayout>
